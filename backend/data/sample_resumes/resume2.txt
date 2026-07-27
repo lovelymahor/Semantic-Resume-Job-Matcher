@@ -1,0 +1,13 @@
+John Smith
+Machine Learning Enthusiast
+
+Skills: Python, NLP, sentence-transformers, FAISS, scikit-learn, Flask
+
+Experience:
+Built a semantic search tool using sentence embeddings and vector indexing
+to retrieve similar documents. Conducted comparative analysis of deep
+learning models for text classification tasks. Comfortable building small
+REST APIs to expose ML models for downstream use.
+
+Education:
+B.Sc. Computer Science with Research

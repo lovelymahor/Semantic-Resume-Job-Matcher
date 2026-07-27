@@ -1,0 +1,6 @@
+{
+  "id": "job4",
+  "title": "DevOps Engineer",
+  "company": "Northgate Systems",
+  "description": "Manage CI/CD pipelines, containerized deployments with Docker, and cloud infrastructure on AWS. Automate build and release processes and monitor production systems for reliability and uptime."
+}

@@ -1,0 +1,6 @@
+{
+  "id": "job1",
+  "title": "Backend Software Engineer",
+  "company": "Acme Cloud",
+  "description": "Design and build REST APIs using Python and Flask. Work with relational databases, implement authentication and authorization, and collaborate with frontend engineers to ship full-stack features. Experience with Git, testing, and CI/CD pipelines is a plus."
+}

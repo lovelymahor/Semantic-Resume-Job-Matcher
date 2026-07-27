@@ -1,0 +1,14 @@
+Jane Doe
+Software Engineer
+
+Skills: Python, Flask, REST APIs, MySQL, JWT Authentication, Git, Docker
+
+Experience:
+Built a full-stack job portal using React.js and Flask, with JWT-based
+authentication for employer and applicant accounts. Designed MySQL schemas
+for job postings and applications, and integrated cloud-based document
+storage for resume uploads. Collaborated with frontend engineers to ship
+REST API-backed features.
+
+Education:
+B.Sc. Computer Science

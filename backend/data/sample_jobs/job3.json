@@ -1,0 +1,6 @@
+{
+  "id": "job3",
+  "title": "Machine Learning Engineer",
+  "company": "DataLoop AI",
+  "description": "Build and evaluate NLP models for text classification and semantic search. Experience with embeddings, vector databases, and Python-based ML frameworks is required. Work closely with backend engineers to deploy models as production APIs."
+}
