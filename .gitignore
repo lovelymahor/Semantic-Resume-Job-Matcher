@@ -14,7 +14,7 @@ backend/venv/
 .env.*
 
 # FAISS generated index
-backend/data/faiss_index/
+# backend/data/faiss_index/
 
 # Node
 node_modules/
